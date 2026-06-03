@@ -1,0 +1,6 @@
+{
+  "name": "Bangla Typing Practice",
+  "description": "An interactive web application for learning and practicing Bangla phonetic (Avro) typing with lessons, real-time feedback, and stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
